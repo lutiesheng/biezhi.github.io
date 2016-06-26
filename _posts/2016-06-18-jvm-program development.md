@@ -195,6 +195,7 @@ SourceFile: "MainApp.java"
 6. 执行`printName()`函数
 
 参考资料：
-http://blog.csdn.net/cutesource/article/details/5904542
-http://www.borjournals.com/a/index.php/jecas/article/viewFile/289/866
-http://coolshell.cn/articles/9229.html
+
+- [http://blog.csdn.net/cutesource/article/details/5904542](http://blog.csdn.net/cutesource/article/details/5904542)
+- [http://www.borjournals.com/a/index.php/jecas/article/viewFile/289/866](http://www.borjournals.com/a/index.php/jecas/article/viewFile/289/866)
+- [http://coolshell.cn/articles/9229.html](http://coolshell.cn/articles/9229.html)
