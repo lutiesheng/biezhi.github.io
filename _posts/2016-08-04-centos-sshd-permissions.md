@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CocoaPods安装遇到的坑
+title: linux ssh连接不了问题
 categories: linux
 tags: centos
 ---
