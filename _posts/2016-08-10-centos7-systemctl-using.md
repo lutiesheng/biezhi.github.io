@@ -89,7 +89,7 @@ systemctl enable cups.service
 | systemctl list-units | 列出所有启动unit |
 | systemctl list-unit-files | 列出所有启动文件 |
 | systemctl list-units –type=service –all | 列出所有service类型的unit |
-| systemctl list-units –type=service –all |grep cpu | 列出 cpu电源管理机制的服务 |
+| systemctl list-units –type=service –all grep cpu | 列出 cpu电源管理机制的服务 |
 | systemctl list-units –type=target –all | 列出所有target |
 
 ### 3、systemctl特殊的用法
