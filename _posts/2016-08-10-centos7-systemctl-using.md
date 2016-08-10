@@ -10,8 +10,6 @@ tags: centos
 
 从CentOS 7.x开始，CentOS开始使用systemd服务来代替daemon，原来管理系统启动和管理系统服务的相关命令全部由systemctl命令来代替。
 
-
-
 ## 1、原来的 service 命令与 systemctl 命令对比
 
 | daemon命令 | systemctl命令 | 说明 |
@@ -40,6 +38,8 @@ systemctl restart network.service
 #查看网络服务状态
 systemctl status network.serivce
 ```
+
+
 
 ## 2、原来的chkconfig 命令与 systemctl 命令对比
 
