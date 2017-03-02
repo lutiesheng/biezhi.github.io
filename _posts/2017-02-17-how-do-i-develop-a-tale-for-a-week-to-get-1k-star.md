@@ -11,9 +11,12 @@ tags:
 * content
 {:toc}
 
+# 我如何在一周开发出Tale应用获得1k star
+
 ## 缘起
 
 我是一个java开发者，几乎使用了所有主流的博客系统，包括静态博客和php系列，我在看java中有没有同样优秀的博客平台，我找到了 [jpress](https://github.com/JpressProjects/jpress) 和 [mblog](http://git.oschina.net/mtons/mblog)。
+
 
 
 
@@ -131,6 +134,19 @@ font-wesome 字体/图标
 ![star](https://ooo.0o0.ooo/2017/03/02/58b7d60ab259d.png)
 也让我对后面的开发更有动力，如果你觉得这个项目还不错也可以 [捐赠] 我，该博客系统面向所有用户，开源免费。 也有些开发者想听我谈谈如何开发这个系统的，于是写下了本文，还望各位看官轻喷。
 
+---
+## 反馈
+
+tale在短时间内已经有很多的反馈，我们使用github的issues进行记录
+
+![ar3.png](https://ooo.0o0.ooo/2017/03/02/58b7df503f4a3.png)
+
+联合开发者一起贡献，有不少开发者向 `tale` 发起了 `PR`
+
+![ar4.png](https://ooo.0o0.ooo/2017/03/02/58b7df4f86b76.png)
+
+---
+
 ## 感谢
 
 非常感谢最近帮助我的小伙伴，感谢大家的反馈和 `Pull Request` 没有你们也就没有更好更优秀的博客平台。
@@ -148,3 +164,4 @@ font-wesome 字体/图标
 - [ZhiHu](https://www.zhihu.com/people/biezhi)
 
 顺便附带小尾巴，4年Java，带过团队，上海求职，有意者发邮件。
+
