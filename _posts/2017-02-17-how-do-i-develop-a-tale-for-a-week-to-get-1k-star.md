@@ -11,12 +11,9 @@ tags:
 * content
 {:toc}
 
-# 我如何在一周开发出Tale应用获得1k star
-
 ## 缘起
 
 我是一个java开发者，几乎使用了所有主流的博客系统，包括静态博客和php系列，我在看java中有没有同样优秀的博客平台，我找到了 [jpress](https://github.com/JpressProjects/jpress) 和 [mblog](http://git.oschina.net/mtons/mblog)。
-
 
 
 
@@ -41,7 +38,11 @@ Bootstrap 前端框架
 UEditor/Markdown编辑器
 font-wesome 字体/图标
 
-可以看到用到了很多企业级开发的技术，搜索引擎、权限管理、竟然还有 `hibernate`。。。显然这不是我想要的，部署起来的成本太高了。
+可以看到用到了很多企业级开发的技术，搜索引擎、权限管理、竟然还有 `hibernate`。。
+
+![](http://p3.pstatp.com/large/326000223684499a333)
+
+显然这不是我想要的，部署起来的成本太高了。
 
 ---
 
@@ -62,7 +63,7 @@ font-wesome 字体/图标
 - mvc框架：blade
 - 数据库：mysql
 - 后台模板：bootstrap
-- 默认主题模板：pinghsu
+- 默认主题模板：pingshu
 - 模板引擎：jetbrick template
 
 其实技术也就是我们日常开发的那些技术，只不过看你如何用好它了。
