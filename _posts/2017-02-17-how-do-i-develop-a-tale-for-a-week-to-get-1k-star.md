@@ -140,4 +140,11 @@ font-wesome 字体/图标
 - [trytrytryiii](https://github.com/trytrytryiii)
 - [Yifei0727](https://github.com/Yifei0727)
 
+## 我的信息
+
+- [Github](https://github.com/biezhi)
+- [Blog](http://biezhi.me)
+- [Weibo](http://weibo.com/biezhii)
+- [ZhiHu](https://www.zhihu.com/people/biezhi)
+
 顺便附带小尾巴，4年Java，带过团队，上海求职，有意者发邮件。
